@@ -1,0 +1,15 @@
+K=100 Conferences:
+90.52145457267761
+Etienne Renault, Sami Evangelista, Radu Iosif, Dragan Bosnacki, Zohar Shevach, Yuval Jacoby, Yusen Su, Yunde Sun, Yuichiro Oyabu, Yi-Jong Yeh, 
+
+
+K=200 Conferences:
+144.40968942642212
+Etienne Renault, Sami Evangelista, Radu Iosif, Peter Gjøl Jensen, Dragan Bosnacki, Zuzana Komárková, Zohar Shevach, Yuval Jacoby, Yusen Su, Yunde Sun, 
+
+
+K=300 Conferences:
+201.38549089431763
+Radu Mateescu 0001, Etienne Renault, Doron A. Peled, Peter Niebert, Jeroen J. A. Keiren, Anton Wijs, Sami Evangelista, Radu Iosif, Petr Rockai, Peter Gjøl Jensen, 
+
+

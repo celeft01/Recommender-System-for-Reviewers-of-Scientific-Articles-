@@ -1,0 +1,15 @@
+K=100 Both:
+157.64067816734314
+Claudio Antares Mezzina, Iain Phillips 0001, Nidhal Hamrit, Nicolas Durbec, Martin Vassor, James Hoey, Doriana Medic, Clément Aubert, Aurélien Emmanuel, Shoji Yuen, 
+
+
+K=200 Both:
+272.68562412261963
+Claudio Antares Mezzina, G. Michele Pinna, Ivan Lanese, Jean-Bernard Stefani, Hernán C. Melgratti, P. W. Hoogers, Iain Phillips 0001, Faron Moller, Reiner Hüchting, Nidhal Hamrit, 
+
+
+K=300 Both:
+388.3097574710846
+Parosh Aziz Abdulla, Claudio Antares Mezzina, G. Michele Pinna, Ivan Lanese, Richard Mayr, Jean-François Raskin, Rob J. van Glabbeek, P. S. Thiagarajan, Jean-Bernard Stefani, Hernán C. Melgratti, 
+
+

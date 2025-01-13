@@ -1,0 +1,15 @@
+K=100 Journals:
+73.92641305923462
+Frank Pfenning, Vasco T. Vasconcelos, Peter Thiemann 0001, Bernardo Toninho, António Ravara, Uwe Nestmann, Adrian Francalanza, Ugo Dal Lago, Ross Horne, Marino Miculan, 
+
+
+K=200 Journals:
+126.98532605171204
+Frank Pfenning, Vasco T. Vasconcelos, Peter Thiemann 0001, Bernardo Toninho, António Ravara, Uwe Nestmann, Jan Hoffmann 0002, Adrian Francalanza, Ugo Dal Lago, Luca Ciccone, 
+
+
+K=300 Journals:
+183.27098941802979
+Frank Pfenning, Vasco T. Vasconcelos, Peter Thiemann 0001, Ankush Das, Bernardo Toninho, António Ravara, Uwe Nestmann, Stephanie Balzer, Jan Hoffmann 0002, Adrian Francalanza, 
+
+

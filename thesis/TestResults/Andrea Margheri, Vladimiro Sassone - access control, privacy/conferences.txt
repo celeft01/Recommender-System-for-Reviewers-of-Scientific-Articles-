@@ -1,0 +1,15 @@
+K=100 Conferences:
+112.6227617263794
+Catuscia Palamidessi, Michele Boreale, Gabriel H. Nunes, David Purser, Blaise Genest, Zeynep Dayar, Yuri A. Yushtein, Youssouf Oualhadj, Wojciech Czerwinski, Wieslaw Zielonka, 
+
+
+K=200 Conferences:
+161.99394392967224
+Catuscia Palamidessi, Yuan Feng 0001, Radha Jagadeesan, Michele Boreale, Vishal Jagannath, Roberto Gorrieri, Gabriel H. Nunes, Dmitry Chistikov 0001, David Purser, Andrzej S. Murawski, 
+
+
+K=300 Conferences:
+220.45891070365906
+Catuscia Palamidessi, Pierpaolo Degano, Yuan Feng 0001, Radha Jagadeesan, Shenggang Ying, Michele Boreale, Vishal Jagannath, Roberto Gorrieri, Gabriel H. Nunes, Dmitry Chistikov 0001, 
+
+

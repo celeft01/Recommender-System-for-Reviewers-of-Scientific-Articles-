@@ -1,0 +1,15 @@
+K=100 Journals:
+71.14820766448975
+Yuxin Deng, Wan J. Fokkink, Vesal Vojdani, Uwe Nestmann, Traian-Florin Serbanuta, Tarmo Uustalu, Suzana Andova, Silvia Ghilezan, Sergio Maffeis, Sebastian S. Bauer, 
+
+
+K=200 Journals:
+126.14086079597473
+Étienne Lozes, Yuxin Deng, Wan J. Fokkink, Vivek Nigam, Virgile Mogbil, Vesal Vojdani, Valentina Castiglioni, Uwe Nestmann, Tristan Crolard, Traian-Florin Serbanuta, 
+
+
+K=300 Journals:
+180.60167908668518
+Étienne Lozes, Álvaro García-Pérez, Ziyuan Gao, Yuxin Deng, Yassine Hachaïchi, Wan J. Fokkink, Véronique Bruyère, Václav Brozek, Viviana Bono, Vivek Nigam, 
+
+

@@ -1,0 +1,15 @@
+K=100 Journals:
+75.55566501617432
+Salvador Tamarit, Joost-Pieter Katoen, Roberto Guanciale, Martin Sulzmann, Erika Ábrahám, Étienne Payet, Yuri Gil Dantas, Yehia Abd Alrahman, Wolfgang Jeltsch, Wim Vanhoof, 
+
+
+K=200 Journals:
+130.48388838768005
+Salvador Tamarit, Manuel V. Hermenegildo, Adrian Francalanza, Pedro López-García 0001, Mario Rodríguez-Artalejo, Dilian Gurov, Wlodzimierz Drabent, Nataliia Stulova, Matteo Pradella, Scott D. Stoller, 
+
+
+K=300 Journals:
+187.65465307235718
+Salvador Tamarit, Manuel V. Hermenegildo, Adrian Francalanza, Pedro López-García 0001, Mario Rodríguez-Artalejo, José F. Morales 0001, Dilian Gurov, Wlodzimierz Drabent, Nataliia Stulova, Nachum Dershowitz, 
+
+

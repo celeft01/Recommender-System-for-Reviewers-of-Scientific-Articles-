@@ -1,0 +1,15 @@
+K=100 Conferences:
+116.76995873451233
+Anna Philippou, Kyriaki Psara, Shoji Yuen, Nobuko Yoshida, Michele Loreti, Iain Phillips 0001, Eleftheria Kouppari, Luca Padovani, Jean-Bernard Stefani, Gianluigi Zavattaro, 
+
+
+K=200 Conferences:
+152.6027262210846
+Anna Philippou, Kyriaki Psara, Nadia Busi, Rob J. van Glabbeek, Filippo Bonchi, Shoji Yuen, Rohan Sen, Rosario Pugliese, Nobuko Yoshida, Michele Loreti, 
+
+
+K=300 Conferences:
+207.6818823814392
+Anna Philippou, Kyriaki Psara, Nadia Busi, Richard Mayr, Glynn Winskel, Rob J. van Glabbeek, Piotr Hofman, Filippo Bonchi, Massimo Bartoletti, Shoji Yuen, 
+
+

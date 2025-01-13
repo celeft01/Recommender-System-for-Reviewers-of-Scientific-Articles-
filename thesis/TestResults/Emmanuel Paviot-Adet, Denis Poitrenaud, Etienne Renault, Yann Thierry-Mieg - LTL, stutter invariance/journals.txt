@@ -1,0 +1,15 @@
+K=100 Journals:
+72.38973259925842
+Javier Esparza, Jean-François Raskin, Bernd Finkbeiner, Marco Montali, Patrick Totzke, Leander Tentrup, Laure Petrucci, Joël Ouaknine, Christopher Hahn, Maximilien Colange, 
+
+
+K=200 Journals:
+129.56534671783447
+Javier Esparza, Jean-François Raskin, Bernd Finkbeiner, Marco Montali, Swen Jacobs, Simon Jantsch, Arie Gurfinkel, Rüdiger Ehlers, Patrick Totzke, Normann Decker, 
+
+
+K=300 Journals:
+187.31530594825745
+Jan Kretínský, Javier Esparza, Lijun Zhang 0001, Jean-François Raskin, Bernd Finkbeiner, Marco Montali, Swen Jacobs, Simon Jantsch, Arie Gurfinkel, Sanjit A. Seshia, 
+
+

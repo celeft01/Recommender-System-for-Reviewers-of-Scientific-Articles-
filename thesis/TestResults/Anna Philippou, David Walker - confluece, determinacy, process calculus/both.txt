@@ -1,0 +1,15 @@
+K=100 Both:
+199.89556312561035
+Robin Milner, Mingsheng Ying, Radha Jagadeesan, Benjamin C. Pierce, Alexander Aiken, Zhong Shao, Zachary Kincaid, Yitzhak Mandelbaum, Xinyu Feng 0001, Xinxin Liu 0009, 
+
+
+K=200 Both:
+312.7205603122711
+Robin Milner, Mingsheng Ying, Joshua R. X. Ross, Radha Jagadeesan, Benjamin C. Pierce, Alexander Aiken, Zhong Shao, Zeynep Dayar, Zachary Kincaid, Yutaka Hoshino, 
+
+
+K=300 Both:
+426.52929949760437
+Zena M. Ariola, Robin Milner, Mingsheng Ying, Joshua R. X. Ross, Radha Jagadeesan, Jean-Jacques Lévy, Benjamin C. Pierce, Alexander Aiken, Alan Schmitt, Zhong Shao, 
+
+

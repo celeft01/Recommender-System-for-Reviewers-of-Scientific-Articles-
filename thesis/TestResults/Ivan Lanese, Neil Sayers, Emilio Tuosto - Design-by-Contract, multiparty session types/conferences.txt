@@ -1,0 +1,15 @@
+K=100 Conferences:
+116.15908455848694
+Nicolas Lagaillardie, Laura Bocchi, Fabrizio Montesi, Young-Joo Moon 0001, Vladimiro Toschi, Vagia Karyoti, Ujitha Wickramarathna, Timo Besamusca, Thomas Scheller, Thanh-Son Dang, 
+
+
+K=200 Conferences:
+163.6037356853485
+Ornela Dardha, Nicolas Lagaillardie, Laura Bocchi, Marco Carbone, Fabrizio Montesi, Zak Cutner, Tzu-Chun Chen, José Proença, Guillermina Cledou, Zorica Savanovic, 
+
+
+K=300 Conferences:
+223.05705285072327
+Rumyana Neykova, Raymond Hu, Ornela Dardha, Nicolas Lagaillardie, Laura Bocchi, Sung-Shik Jongmans, Marco Carbone, Fabrizio Montesi, Zak Cutner, Tzu-Chun Chen, 
+
+

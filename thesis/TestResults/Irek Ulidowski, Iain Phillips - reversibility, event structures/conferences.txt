@@ -1,0 +1,15 @@
+K=100 Conferences:
+83.08614611625671
+Iain Phillips 0001, Eva Graversen, Stefan Kuhn 0001, Nidhal Hamrit, Nicolas Durbec, Martin Vassor, Doriana Medic, Clément Aubert, Aurélien Emmanuel, Pietro Lami, 
+
+
+K=200 Conferences:
+136.92210268974304
+Iain Phillips 0001, Nobuko Yoshida, Jean-Bernard Stefani, Rob J. van Glabbeek, Eva Graversen, Daniele Varacca, Shoji Yuen, Nidhal Hamrit, Nicolas Durbec, Martin Vassor, 
+
+
+K=300 Conferences:
+195.64999890327454
+Paolo Baldan, Iain Phillips 0001, Glynn Winskel, Nobuko Yoshida, Jean-Bernard Stefani, Rob J. van Glabbeek, Eva Graversen, Daniele Varacca, Uwe Nestmann, Ugo Montanari, 
+
+

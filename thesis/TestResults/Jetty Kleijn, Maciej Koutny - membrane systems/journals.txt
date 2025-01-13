@@ -1,0 +1,15 @@
+K=100 Journals:
+74.16669154167175
+Rudolf Freund, Claudio Zandron, Roberto Barbuti, Paolo Milazzo, Eneia Nicolae Todoran, Tingfang Wu, Simone Tini, Andrea Maggiolo-Schettini, Zhiqiang Zhang 0002, Y. S. Ramakrishna, 
+
+
+K=200 Journals:
+134.59468960762024
+Rudolf Freund, Claudio Zandron, Roberto Barbuti, Paolo Milazzo, Eneia Nicolae Todoran, Tingfang Wu, Simone Tini, Andrea Maggiolo-Schettini, Zizhu Wang, Ziqin Feng, 
+
+
+K=300 Journals:
+191.6915111541748
+Rudolf Freund, Claudio Zandron, Roberto Barbuti, Paolo Milazzo, Eneia Nicolae Todoran, Tingfang Wu, Simone Tini, Andrea Maggiolo-Schettini, Zuwen Wang, Zunjing Lu, 
+
+

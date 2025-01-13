@@ -1,0 +1,15 @@
+K=100 Both:
+142.8184106349945
+Paola Inverardi, Mehrnoosh Askarpour, Luís Soares Barbosa, Tao Yue 0002, Shaukat Ali 0001, Rui Abreu 0001, Ricardo Pérez-Castillo, Pierriccardo Olivieri, Pengzhan Zhao, Paolo Carletto, 
+
+
+K=200 Both:
+264.0878427028656
+Paola Inverardi, Paola Spoletini, Mehrnoosh Askarpour, Paolo Bocciarelli, Luís Soares Barbosa, Tao Yue 0002, Shaukat Ali 0001, Rui Abreu 0001, Ricardo Pérez-Castillo, Pierriccardo Olivieri, 
+
+
+K=300 Both:
+380.50022888183594
+Paola Inverardi, Paolo Ciancarini, Paola Spoletini, Paola Spoletini, Mehrnoosh Askarpour, Paolo Ciaccia, Paolo Bocciarelli, Luís Soares Barbosa, Tao Yue 0002, Shaukat Ali 0001, 
+
+

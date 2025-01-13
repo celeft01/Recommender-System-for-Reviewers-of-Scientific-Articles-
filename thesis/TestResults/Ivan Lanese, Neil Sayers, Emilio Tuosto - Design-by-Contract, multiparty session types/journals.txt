@@ -1,0 +1,15 @@
+K=100 Journals:
+71.11987519264221
+Marino Miculan, Álvaro García-Pérez, Yuxin Deng, Yuri Gil Dantas, Wolfgang Jeltsch, Vesal Vojdani, Till Mossakowski, Stephan Mennicke, Salvador Tamarit, Ross Horne, 
+
+
+K=200 Journals:
+126.81853556632996
+Ornela Dardha, Alceste Scalas, Marino Miculan, Daniel de Carvalho, Álvaro García-Pérez, Yuxin Deng, Yuri Gil Dantas, Yehia Abd Alrahman, Yasir Shoaib, Wolfgang Jeltsch, 
+
+
+K=300 Journals:
+179.44452929496765
+Uwe Nestmann, Ornela Dardha, Alceste Scalas, Francisco Ferreira 0001, Marino Miculan, Hongwei Xi, Daniel de Carvalho, Álvaro García-Pérez, Yuxin Deng, Yuri Gil Dantas, 
+
+

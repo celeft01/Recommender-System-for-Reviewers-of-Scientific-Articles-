@@ -1,0 +1,15 @@
+K=100 Both:
+144.6608111858368
+Yuma Inoue, Yuki Yamanashi, Wouter Schols, Waltraut Wustmann, Uwe Meyer 0003, Tsvetelina Yonova-Karbe, Torben Ægidius Mogensen, Tim Boykett, Stéphane Burignat, Stijn De Baerdemacker, 
+
+
+K=200 Both:
+262.25465726852417
+Zaid Al-Wardi, Zahra Sasanian, Yuma Inoue, Yuki Yamanashi, Youssef Arbach, Yann Perrin, Wouter Schols, Waltraut Wustmann, Wakaki Hattori, Vikraman Choudhury, 
+
+
+K=300 Both:
+370.77208638191223
+Zaid Al-Wardi, Zahra Sasanian, Yuma Inoue, Yuki Yamanashi, Youssef Arbach, Yann Perrin, Xian Xu 0001, Wouter Schols, Waltraut Wustmann, Wakaki Hattori, 
+
+

@@ -1,0 +1,16 @@
+
+K=100 Conferences:
+89.45515608787537
+Yoshinori Itabashi, Ye Xinming, Xizheng Shi, Wilfried H. P. van Hulzen, Victor Melamed, Victor G. García, Tzu-Chun Chen, Tul Kongprakaiwoot, Thomas Davie, Takahiro Nagao, 
+
+
+K=200 Conferences:
+142.15814852714539
+Yunquan Peng, Younghan Choe, Yosihiro Yuse, Yoshinori Itabashi, Yoshiaki Tokita, Ye Xinming, Y. Ortega, Xizheng Shi, X. Ye, Wojciech Jedynak, 
+
+
+K=300 Conferences:
+194.40260362625122
+Rocco De Nicola, Ivan Lanese, Yunquan Peng, Youssef Arbach, Younghan Choe, Yosihiro Yuse, Yoshinori Itabashi, Yoshiaki Tokita, Ye Xinming, Y. Shigeta, 
+
+

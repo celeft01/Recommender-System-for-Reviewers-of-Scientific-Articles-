@@ -1,0 +1,15 @@
+K=100 Both:
+167.51004433631897
+Sami Evangelista, Stefan Schwoon, Paola Mello, Marko Mäkelä, Lars Michael Kristensen, Henri Hansen, Ye Xinming, Xizheng Shi, William M. Keese II, Wilfried H. P. van Hulzen, 
+
+
+K=200 Both:
+282.8466331958771
+Sami Evangelista, Stefan Schwoon, Paola Spoletini, Paola Mello, Marko Mäkelä, Lars Michael Kristensen, Henri Hansen, Younghan Choe, Yoshinori Itabashi, Yoshiaki Tokita, 
+
+
+K=300 Both:
+397.2847366333008
+Sami Evangelista, Stefan Schwoon, Paola Spoletini, Paola Mello, Michael Westergaard, Dániel Darvas, Doron A. Peled, András Vörös 0001, Marko Mäkelä, Lars Michael Kristensen, 
+
+

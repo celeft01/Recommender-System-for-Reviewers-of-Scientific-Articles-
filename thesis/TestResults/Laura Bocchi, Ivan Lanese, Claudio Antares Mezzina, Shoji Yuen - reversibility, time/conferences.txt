@@ -1,0 +1,15 @@
+K=100 Conferences:
+129.09955406188965
+Jean-Bernard Stefani, Farhad Arbab, Anna Philippou, Maurizio Murgia 0001, Iain Phillips 0001, Vasco Thudichum Vasconcelos, G. Michele Pinna, Nidhal Hamrit, Martin Vassor, Kyriaki Psara, 
+
+
+K=200 Conferences:
+169.94334483146667
+Frank S. de Boer, Jean-Bernard Stefani, Hanne Riis Nielson, Flemming Nielson, Diego Latella, Jean-Marie Jacquet, Farhad Arbab, Jens Chr. Godskesen, Anna Philippou, Thomas T. Hildebrandt, 
+
+
+K=300 Conferences:
+223.81801223754883
+Frank S. de Boer, Jean-Bernard Stefani, Roberto Gorrieri, Hanne Riis Nielson, Flemming Nielson, Diego Latella, Jean-Marie Jacquet, Farhad Arbab, Jens Chr. Godskesen, Anna Philippou, 
+
+

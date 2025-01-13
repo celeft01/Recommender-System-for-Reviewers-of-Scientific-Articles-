@@ -1,0 +1,15 @@
+K=100 Both:
+147.0850145816803
+Iain Phillips 0001, Eva Graversen, Stefan Kuhn 0001, Nidhal Hamrit, Nicolas Durbec, Martin Vassor, Doriana Medic, Clément Aubert, Aurélien Emmanuel, Pietro Lami, 
+
+
+K=200 Both:
+259.5416913032532
+Iain Phillips 0001, Nobuko Yoshida, Jean-Bernard Stefani, Rob J. van Glabbeek, Eva Graversen, Daniele Varacca, Shoji Yuen, Nidhal Hamrit, Nicolas Durbec, Martin Vassor, 
+
+
+K=300 Both:
+376.1000761985779
+Paolo Baldan, Iain Phillips 0001, Glynn Winskel, Nobuko Yoshida, Jean-Bernard Stefani, Rob J. van Glabbeek, Eva Graversen, Daniele Varacca, Uwe Nestmann, Ugo Montanari, 
+
+

@@ -1,0 +1,15 @@
+K=100 Both:
+156.48934030532837
+Etienne Renault, Sami Evangelista, Radu Iosif, Dragan Bosnacki, Zohar Shevach, Yuval Jacoby, Yusen Su, Yunde Sun, Yuichiro Oyabu, Yi-Jong Yeh, 
+
+
+K=200 Both:
+269.6993019580841
+Etienne Renault, Sami Evangelista, Radu Iosif, Peter Gjøl Jensen, Dragan Bosnacki, Zuzana Komárková, Zohar Shevach, Yuval Jacoby, Yusen Su, Yunde Sun, 
+
+
+K=300 Both:
+384.3869822025299
+Radu Mateescu 0001, Etienne Renault, Doron A. Peled, Peter Niebert, Jeroen J. A. Keiren, Anton Wijs, Sami Evangelista, Radu Iosif, Petr Rockai, Peter Gjøl Jensen, 
+
+

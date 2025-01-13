@@ -1,0 +1,15 @@
+K=100 Journals:
+77.99445414543152
+Xiaorong Mei, Xiaorong Hu, Xiaoran Hu, Xiaoqun Yang, Victor Rivera, Tucker Balch, Tom Melham, Tim Quatmann, Thomy Phan, Thomas Chaffey, 
+
+
+K=200 Journals:
+136.68438124656677
+Xiaoshi Wu, Xiaosheng Yan, Xiaosheng Mu, Xiaosheng Hu, Xiaorui Yang, Xiaorong Mei, Xiaorong Hu, Xiaorang Guo, Xiaoran Yu, Xiaoran Ruan, 
+
+
+K=300 Journals:
+194.4767870903015
+Xiaoshuai Hao, Xiaoshi Wu, Xiaosheng Yan, Xiaosheng Mu, Xiaosheng Hu, Xiaosha Zhao, Xiaorun Tang, Xiaorui Yang, Xiaorong Mei, Xiaorong Hu, 
+
+

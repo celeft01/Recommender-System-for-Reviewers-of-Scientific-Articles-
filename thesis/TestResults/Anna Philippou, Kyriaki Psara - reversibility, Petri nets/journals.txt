@@ -1,0 +1,15 @@
+K=100 Journals:
+76.60538101196289
+Robin Kaarsgaard, Matteo Sammartino, Zeyong Li, Yuto Nakashima, Yuan He 0003, Yekun Xu, Yasushi Kawase, Yasuaki Kobayashi, Xin Li 0051, Vipin Ravindran Vijayalakshmi, 
+
+
+K=200 Journals:
+135.01082515716553
+Claudio Antares Mezzina, Arnaud Sangnier, Robin Kaarsgaard, Matteo Sammartino, Zohir Bouzid, Zeyong Li, Yuval Emek, Yuuki Takai, Yuto Nakashima, Yuan He 0003, 
+
+
+K=300 Journals:
+193.0105652809143
+Claudio Antares Mezzina, Arnaud Sangnier, Robin Kaarsgaard, Matteo Sammartino, Étienne Bamas, Zohir Bouzid, Zeyong Li, Yuval Emek, Yuuki Takai, Yuto Nakashima, 
+
+

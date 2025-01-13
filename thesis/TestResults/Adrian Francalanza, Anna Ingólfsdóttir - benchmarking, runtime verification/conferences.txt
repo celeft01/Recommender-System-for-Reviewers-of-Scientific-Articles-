@@ -1,0 +1,15 @@
+K=100 Conferences:
+109.99989128112793
+Daniel Thoma, Felix Klaedtke, Eugen Zalinescu, Chun Tian 0001, Luis Miguel Danielsson, Duncan Paul Attard, Shinichi Shiriashi, Reza Babaee, Florence Opalvens, Eleni Zapridou, 
+
+
+K=200 Conferences:
+159.20120215415955
+Martin Leucker, Daniel Thoma, Srdan Krstic, Felix Klaedtke, Eugen Zalinescu, Scott A. Smolka, Joshua Heneage Dawes, Chun Tian 0001, Antoine El-Hokayem, Normann Decker, 
+
+
+K=300 Conferences:
+216.91983938217163
+Klaus Havelund, Martin Leucker, César Sánchez, Daniel Thoma, Srdan Krstic, Doron Peled, Felix Klaedtke, Eugen Zalinescu, Scott A. Smolka, Joshua Heneage Dawes, 
+
+

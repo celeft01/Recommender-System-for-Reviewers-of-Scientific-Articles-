@@ -1,0 +1,15 @@
+K=100 Journals:
+79.72231602668762
+Xinshi Zang, Xinshi Ma, Xinshi Chen, Xinsheng Xuan, Xinsheng Qin, Xinsheng Mao, Xinrun Wang, Xinrui Zhuang, Xinrui Yan, Xinrui Wei, 
+
+
+K=200 Journals:
+139.83164834976196
+Xintian Shi, Xintian Mao, Xintao Yan, Xintao Xiang, Xintan Zeng, Xinsong Wang, Xinshuo Hu, Xinshun Feng, Xinshuai Dong, Xinshi Zang, 
+
+
+K=300 Journals:
+201.88514137268066
+Xintian Shi, Xintian Mao, Xintao Yan, Xintao Xiang, Xintan Zeng, Xinsong Wang, Xinshuo Hu, Xinshun Feng, Xinshuai Dong, Xinshi Zang, 
+
+

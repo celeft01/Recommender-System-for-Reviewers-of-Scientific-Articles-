@@ -1,0 +1,15 @@
+K=100 Both:
+178.97668957710266
+Reza Babaee, Paola Mello, …tienne Lozes, Youssouf Oualhadj, Yaron Velner, Vladimiro Sassone, Vincent Danos, Ugo Montanari, Tim A. C. Willemse, Thorsten Wiﬂmann, 
+
+
+K=200 Both:
+290.4709572792053
+Frank S. de Boer, Felix Klaedtke, Reza Babaee, Paola Spoletini, Paola Mello, …tienne Lozes, Zeynep Dayar, Yuri A. Yushtein, Youssouf Oualhadj, Yaron Velner, 
+
+
+K=300 Both:
+403.981507062912
+Frank S. de Boer, Felix Klaedtke, Eugen Zalinescu, Reza Babaee, Paola Spoletini, Paola Mello, …tienne Lozes, Zeynep Dayar, Zdenek Sawa, Yuri A. Yushtein, 
+
+

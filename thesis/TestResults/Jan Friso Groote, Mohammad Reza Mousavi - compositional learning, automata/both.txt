@@ -1,0 +1,15 @@
+K=100 Both:
+170.9229781627655
+Thomas A. Henzinger, Jean-François Raskin, Parosh Aziz Abdulla, Lorenzo Clemente, Javier Esparza, Roberto Segala, Richard Mayr, Scott A. Smolka, Rance Cleaveland, Gerald Lüttgen, 
+
+
+K=200 Both:
+285.44004344940186
+James Worrell 0001, Paul Gastin, Thomas A. Henzinger, Holger Hermanns, Jean-François Raskin, Benedikt Bollig, Joël Ouaknine, Parosh Aziz Abdulla, Slawomir Lasota 0001, Lorenzo Clemente, 
+
+
+K=300 Both:
+401.22989654541016
+Patricia Bouyer, James Worrell 0001, Orna Kupferman, Kim Guldstrand Larsen, Paul Gastin, Thomas A. Henzinger, Joost-Pieter Katoen, Holger Hermanns, Jean-François Raskin, Benedikt Bollig, 
+
+

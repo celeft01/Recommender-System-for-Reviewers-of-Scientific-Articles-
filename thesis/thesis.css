@@ -1,0 +1,35 @@
+body{
+    text-align: center;
+}
+
+p{
+    margin-left:100px;
+    margin-right:100px;
+    height:auto;
+    padding-top: auto;
+}
+
+div#Inputs{
+    
+    margin-top: 36px;
+    margin-right: 100px;
+    margin-left: 100px;
+}
+
+#modal1{
+    text-align: left;
+}
+
+.check{
+    color:red;
+    /* display: none; */
+    /* display: flex; */
+}
+
+#kwords:hover{
+    cursor: pointer;
+}
+
+#entriesn:hover{
+    cursor: pointer;
+}

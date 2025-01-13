@@ -1,0 +1,15 @@
+K=100 Conferences:
+94.2943115234375
+Duaa Alkubaisy, Yang-Tze Lin, Émilien Frugier, Zeynep Dayar, Yves Chaumette, Yuri A. Yushtein, Yi-Lang Tu, Vincent Bouzon, Victoria Baines, Varvara Bravou, 
+
+
+K=200 Conferences:
+150.81869912147522
+Duaa Alkubaisy, Gabriel H. Nunes, Yang-Tze Lin, Miriam Wagner, Émilien Frugier, Zeynep Dayar, Yves Chaumette, Yuri A. Yushtein, You-Jin Jang, Yi-Lang Tu, 
+
+
+K=300 Conferences:
+211.60622668266296
+Jan Friso Groote, Duaa Alkubaisy, Yuan Feng 0001, Gabriel H. Nunes, Faron Moller, Yang-Tze Lin, Veerle Jessen, Miriam Wagner, Constantinos Ioannou, Ítalo Oliveira, 
+
+

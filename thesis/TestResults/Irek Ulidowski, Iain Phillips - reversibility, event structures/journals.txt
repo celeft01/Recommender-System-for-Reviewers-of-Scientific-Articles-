@@ -1,0 +1,15 @@
+K=100 Journals:
+75.63996982574463
+Paolo Baldan, Iain Phillips 0001, Glynn Winskel, Andrea Corradini 0001, Ugo Montanari, Fabio Gadducci, Marco Bernardo 0001, Cosimo Laneve, Vincent Danos, Roberto Bruni, 
+
+
+K=200 Journals:
+134.34195756912231
+Paolo Baldan, Iain Phillips 0001, Glynn Winskel, Andrea Corradini 0001, Ugo Montanari, Fabio Gadducci, Marco Bernardo 0001, Ilaria Castellani, Cosimo Laneve, Vincent Danos, 
+
+
+K=300 Journals:
+192.36333465576172
+Paolo Baldan, Iain Phillips 0001, Glynn Winskel, Andrea Corradini 0001, Ugo Montanari, Fabio Gadducci, Marco Bernardo 0001, Ilaria Castellani, Cosimo Laneve, Vincent Danos, 
+
+

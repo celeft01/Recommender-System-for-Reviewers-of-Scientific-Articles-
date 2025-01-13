@@ -1,0 +1,15 @@
+K=100 Conferences:
+102.83836460113525
+Raymond R. Devillers, Éric Badouel, Yutaka Ohtsuka, Yann Thierry-Mieg, Vinod A. Muganthan, Vincent Beaudenon, Vegard Steinsland, Uli Schlachter, Tuomo Pyhälä, Tuomas Launiainen, 
+
+
+K=200 Conferences:
+156.13203120231628
+Raymond R. Devillers, Laure Petrucci, Jean Fanchon, Éric Badouel, Yutaka Ohtsuka, Yann Thierry-Mieg, Xu Wang 0001, Wolfgang Reisig, Wojciech Ptak, Waldemar Bujwan, 
+
+
+K=300 Conferences:
+214.50366711616516
+Raymond R. Devillers, Laure Petrucci, Jean Fanchon, Heiko Rölke, Éric Badouel, Zeynep Dayar, Zahid H. Qureshi, Yves-Stan Le Cornec, Yutaka Ohtsuka, Yuri A. Yushtein, 
+
+

@@ -1,0 +1,15 @@
+K=100 Conferences:
+100.5618064403534
+Thomas A. Henzinger, Jean-François Raskin, Parosh Aziz Abdulla, Lorenzo Clemente, Javier Esparza, Roberto Segala, Richard Mayr, Scott A. Smolka, Rance Cleaveland, Gerald Lüttgen, 
+
+
+K=200 Conferences:
+156.03783631324768
+James Worrell 0001, Paul Gastin, Thomas A. Henzinger, Holger Hermanns, Jean-François Raskin, Benedikt Bollig, Joël Ouaknine, Parosh Aziz Abdulla, Slawomir Lasota 0001, Lorenzo Clemente, 
+
+
+K=300 Conferences:
+214.50976014137268
+Patricia Bouyer, James Worrell 0001, Orna Kupferman, Kim Guldstrand Larsen, Paul Gastin, Thomas A. Henzinger, Joost-Pieter Katoen, Holger Hermanns, Jean-François Raskin, Benedikt Bollig, 
+
+

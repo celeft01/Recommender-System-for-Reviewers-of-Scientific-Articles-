@@ -1,0 +1,15 @@
+K=100 Journals:
+77.95166158676147
+Wiktor Zuba, Vrunda Dave, Vojtech Rehák, Vineet Gupta 0001, Veronika Loitzenbauer, Uli Fahrenberg, Ugo Dal Lago, Tomás Brázdil, Till Knollmann, Tara Brough, 
+
+
+K=200 Journals:
+134.53232598304749
+Javier Esparza, Sébastien Tixeuil, Thomas A. Henzinger, Panagiotis Charalampopoulos, Étienne Bamas, Yuuki Takai, Yuto Nakashima, Yong Li 0031, Wiktor Zuba, Vrunda Dave, 
+
+
+K=300 Journals:
+210.42545247077942
+Javier Esparza, Sébastien Tixeuil, Devin C. Jean, Thomas A. Henzinger, Pawel Gawrychowski, Panagiotis Charalampopoulos, Bernd Finkbeiner, Sathya Peri, Sarel Cohen, Nimrod Talmon, 
+
+

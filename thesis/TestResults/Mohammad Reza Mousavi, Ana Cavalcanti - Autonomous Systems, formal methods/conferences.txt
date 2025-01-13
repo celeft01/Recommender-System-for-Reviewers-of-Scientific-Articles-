@@ -1,0 +1,15 @@
+K=100 Conferences:
+79.2042167186737
+Mehrnoosh Askarpour, Luís Soares Barbosa, Tao Yue 0002, Shaukat Ali 0001, Rui Abreu 0001, Ricardo Pérez-Castillo, Pierriccardo Olivieri, Pengzhan Zhao, Paolo Carletto, Paolo Carbone, 
+
+
+K=200 Conferences:
+135.38559198379517
+Mehrnoosh Askarpour, Paolo Bocciarelli, Luís Soares Barbosa, Tao Yue 0002, Shaukat Ali 0001, Rui Abreu 0001, Ricardo Pérez-Castillo, Pierriccardo Olivieri, Pengzhan Zhao, Paolo De Coppi, 
+
+
+K=300 Conferences:
+204.68756675720215
+Paolo Ciancarini, Paola Spoletini, Mehrnoosh Askarpour, Paolo Ciaccia, Paolo Bocciarelli, Luís Soares Barbosa, Tao Yue 0002, Shaukat Ali 0001, Rui Abreu 0001, Ricardo Pérez-Castillo, 
+
+

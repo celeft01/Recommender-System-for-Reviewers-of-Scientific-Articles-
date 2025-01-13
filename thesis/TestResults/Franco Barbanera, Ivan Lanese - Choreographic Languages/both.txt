@@ -1,0 +1,15 @@
+K=100 Both:
+173.0647954940796
+Young-Joo Moon 0001, Vladimiro Toschi, Vagia Karyoti, Ujitha Wickramarathna, Timo Besamusca, Thomas Scheller, Thanh-Son Dang, Tan Duong, Sung-Shik T. Q. Jongmans, Stefan Kneubuehl, 
+
+
+K=200 Both:
+285.9932029247284
+Zak Cutner, Young-Joo Moon 0001, Wijnand Suijlen, Wen Kokke, Vladimiro Toschi, Vladimir Marangozov, Viviana Bono, Vitaly Buravlev, Vagia Karyoti, Ujitha Wickramarathna, 
+
+
+K=300 Both:
+394.4527680873871
+Zorica Savanovic, Zak Cutner, Zaid Al-Zobaidi, Young-Joo Moon 0001, Ximeng Li 0001, Wijnand Suijlen, Wen Kokke, Vladimiro Toschi, Vladimir Marangozov, Viviana Bono, 
+
+

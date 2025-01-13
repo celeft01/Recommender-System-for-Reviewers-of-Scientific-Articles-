@@ -1,0 +1,15 @@
+K=100 Journals:
+73.50637173652649
+Jiri Barnat, Marta Z. Kwiatkowska, Scott A. Smolka, Kim Guldstrand Larsen, Andreas Podelski, Laura Bozzelli, Ron van der Meyden, Diego Latella, Tayssir Touili, Michael Huth, 
+
+
+K=200 Journals:
+131.7277901172638
+Axel Legay, Jiri Barnat, Marta Z. Kwiatkowska, Scott A. Smolka, Kim Guldstrand Larsen, Thomas A. Henzinger, Andreas Podelski, Adriano Peron, Laura Bozzelli, Ron van der Meyden, 
+
+
+K=300 Journals:
+186.1351923942566
+Axel Legay, Jiri Barnat, Marta Z. Kwiatkowska, Scott A. Smolka, Kim Guldstrand Larsen, Thomas A. Henzinger, Andreas Podelski, Adriano Peron, Laura Bozzelli, Ron van der Meyden, 
+
+

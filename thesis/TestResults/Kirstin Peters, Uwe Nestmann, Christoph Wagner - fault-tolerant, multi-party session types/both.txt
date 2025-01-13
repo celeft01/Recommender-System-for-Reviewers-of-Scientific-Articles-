@@ -1,0 +1,15 @@
+K=100 Both:
+166.6670093536377
+Yoshinori Itabashi, Yoshiaki Tokita, Ye Xinming, Y. Shigeta, Xiasong Lu, X. Ye, Wouter Schols, Victor G. García, Ulrik Frendrup, Tobias Prehn, 
+
+
+K=200 Both:
+282.82913303375244
+Yoshinori Itabashi, Yoshiaki Tokita, Ye Xinming, Y. Shigeta, Y. Ortega, Xizheng Shi, Xiasong Lu, X. Ye, Wouter Schols, Victor G. García, 
+
+
+K=300 Both:
+395.55572152137756
+Paola Flocchini, Yunquan Peng, Younghan Choe, Yoshinori Itabashi, Yoshiaki Tokita, Ye Xinming, Y. Shigeta, Y. Ortega, Xizheng Shi, Xiasong Lu, 
+
+

@@ -1,0 +1,15 @@
+K=100 Both:
+180.1942925453186
+Catuscia Palamidessi, Paola Inverardi, Paola Mavriki, Michele Boreale, Gabriel H. Nunes, David Purser, Blaise Genest, Zeynep Dayar, Yuri A. Yushtein, Youssouf Oualhadj, 
+
+
+K=200 Both:
+298.50466322898865
+Catuscia Palamidessi, Paola Inverardi, Yuan Feng 0001, Paola Mavriki, Radha Jagadeesan, Michele Boreale, Vishal Jagannath, Roberto Gorrieri, Gabriel H. Nunes, Dmitry Chistikov 0001, 
+
+
+K=300 Both:
+414.5616590976715
+Catuscia Palamidessi, Pierpaolo Degano, Paola Inverardi, Yuan Feng 0001, Paola Mavriki, Radha Jagadeesan, Shenggang Ying, Michele Boreale, Vishal Jagannath, Roberto Gorrieri, 
+
+

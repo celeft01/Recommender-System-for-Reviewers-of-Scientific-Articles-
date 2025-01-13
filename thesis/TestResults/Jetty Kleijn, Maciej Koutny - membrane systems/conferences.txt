@@ -1,0 +1,15 @@
+K=100 Conferences:
+116.00299334526062
+Éric Badouel, Yann Thierry-Mieg, Wojciech Ptak, Waldemar Bujwan, Vince Molnár, Viki Peeva, Vegard Steinsland, Uli Schlachter, Tim Strazny, Thomas Hujsa, 
+
+
+K=200 Conferences:
+165.27693843841553
+G. Michele Pinna, Éric Badouel, Yutaka Ohtsuka, Yunhe Wang 0003, Yann Thierry-Mieg, Xu Wang 0001, Wolfgang Reisig, Wojciech Ptak, Waldemar Bujwan, Vinod A. Muganthan, 
+
+
+K=300 Conferences:
+223.02181434631348
+G. Michele Pinna, George Assaf, Éric Badouel, Zahid H. Qureshi, Yves-Stan Le Cornec, Yutaka Ohtsuka, Yuri A. Yushtein, Yunhe Wang 0003, Yann Thierry-Mieg, Yann Duplouy, 
+
+

@@ -1,0 +1,15 @@
+K=100 Conferences:
+127.12786102294922
+Robin Milner, Mingsheng Ying, Radha Jagadeesan, Benjamin C. Pierce, Alexander Aiken, Zhong Shao, Zachary Kincaid, Yitzhak Mandelbaum, Xinyu Feng 0001, Xinxin Liu 0009, 
+
+
+K=200 Conferences:
+180.7827136516571
+Robin Milner, Mingsheng Ying, Joshua R. X. Ross, Radha Jagadeesan, Benjamin C. Pierce, Alexander Aiken, Zhong Shao, Zeynep Dayar, Zachary Kincaid, Yutaka Hoshino, 
+
+
+K=300 Conferences:
+238.302307844162
+Zena M. Ariola, Robin Milner, Mingsheng Ying, Joshua R. X. Ross, Radha Jagadeesan, Jean-Jacques Lévy, Benjamin C. Pierce, Alexander Aiken, Alan Schmitt, Zhong Shao, 
+
+

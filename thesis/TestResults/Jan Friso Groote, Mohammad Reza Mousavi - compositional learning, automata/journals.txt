@@ -1,0 +1,15 @@
+K=100 Journals:
+75.94884943962097
+Christel Baier, Pierre-Cyrille Héam, Ruggero Lanotte, Pedro R. D'Argenio, Marta Z. Kwiatkowska, Mariëlle Stoelinga, Gethin Norman, Martin Leucker, Emilio Tuosto, Rance Cleaveland, 
+
+
+K=200 Journals:
+129.41481113433838
+Paul Gastin, Igor Walukiewicz, Axel Legay, Joost-Pieter Katoen, Holger Hermanns, Christel Baier, Pierre-Cyrille Héam, Maurice H. ter Beek, Ruggero Lanotte, Pedro R. D'Argenio, 
+
+
+K=300 Journals:
+189.42290019989014
+Paul Gastin, Igor Walukiewicz, Axel Legay, Joost-Pieter Katoen, Holger Hermanns, Christel Baier, Pierre-Cyrille Héam, Maurice H. ter Beek, Ruggero Lanotte, Pedro R. D'Argenio, 
+
+

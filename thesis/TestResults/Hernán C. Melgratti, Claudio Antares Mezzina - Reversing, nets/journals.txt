@@ -1,0 +1,15 @@
+K=100 Journals:
+75.06349802017212
+Richard Mayr, Jérôme Leroux, Rob J. van Glabbeek, Slawomir Lasota 0001, M. Praveen, Filippo Bonchi, Claudia Faggian, James Worrell 0001, Grégoire Sutre, Damien Pous, 
+
+
+K=200 Journals:
+136.08049631118774
+Richard Mayr, Jérôme Leroux, Rob J. van Glabbeek, Slawomir Lasota 0001, Piotr Hofman, M. Praveen, Thomas Ehrhard, Michael Blondin, Patricia Bouyer, Filippo Bonchi, 
+
+
+K=300 Journals:
+189.63059425354004
+Richard Mayr, Jérôme Leroux, Rob J. van Glabbeek, Barbara König 0001, Slawomir Lasota 0001, Piotr Hofman, M. Praveen, Jean-François Raskin, Thomas Ehrhard, Michael Blondin, 
+
+

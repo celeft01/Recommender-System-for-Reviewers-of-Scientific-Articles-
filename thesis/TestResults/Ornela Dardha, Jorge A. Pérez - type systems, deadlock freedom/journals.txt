@@ -1,0 +1,16 @@
+
+K=100 Journals:
+79.49565052986145
+Zhize Li, Yong Li 0031, Yehia Abd Alrahman, Xiaowei Huang 0001, Wajeb Gharibi, Veronika Soková, Tomás Brázdil, Tobias Wrigstad, Tobias Kappé, Takaaki Nishimoto, 
+
+
+K=200 Journals:
+138.67790365219116
+Jacopo Mauro, Zhize Li, Yong Li 0031, Yehia Abd Alrahman, Xuexin Wei, Xuewu Lin, Xuewei Tang, Xuewei Ma, Xuewei Lin, Xuetong Niu, 
+
+
+K=300 Journals:
+189.5409562587738
+Jacopo Mauro, Zhize Li, Yong Li 0031, Yehia Abd Alrahman, Xuexin Wei, Xuewu Lin, Xuewu Jiao, Xuewen Yao, Xuewei Tang, Xuewei Ma, 
+
+

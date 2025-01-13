@@ -1,0 +1,15 @@
+K=100 Conferences:
+123.2103865146637
+Xhevahire Tërnava, Wolfram Fenske, Wolfgang Heider, Wardah Mahmood, Wanzi Gu, Vladyslav Bohlachov, Tobias Thiem, Thorsten Berger, Thomas Leich, Stefan Mann, 
+
+
+K=200 Conferences:
+172.43314623832703
+Xhevahire Tërnava, Xavier Devroey, Wolfram Fenske, Wolfgang Heider, Wardah Mahmood, Wanzi Gu, Vladyslav Bohlachov, Victoria Martin-Requena, Vanessa C. F. Gonçalves, Valentin Rothberg, 
+
+
+K=300 Conferences:
+219.6990520954132
+Xhevahire Tërnava, Xavier Devroey, Wonseok Chae, Wolfgang Heider, Wardah Mahmood, Wanzi Gu, Vladyslav Bohlachov, Vladimir Blagojevic, Visar Januzaj, Victoria Martin-Requena, 
+
+

@@ -1,0 +1,15 @@
+K=100 Journals:
+78.00919938087463
+Pawel Sobocinski 0001, Ugo Dal Lago, Roberto M. Amadio, Catuscia Palamidessi, Antonín Kucera 0001, Thomas A. Henzinger, Patrick Baillot, Joost-Pieter Katoen, Guy Avni, Zhilin Wu, 
+
+
+K=200 Journals:
+137.09355998039246
+Richard Mayr, Pawel Sobocinski 0001, Ugo Dal Lago, Roberto M. Amadio, Catuscia Palamidessi, Antonín Kucera 0001, Thomas A. Henzinger, Patrick Baillot, Joost-Pieter Katoen, Guy Avni, 
+
+
+K=300 Journals:
+195.93438243865967
+Richard Mayr, Pawel Sobocinski 0001, Ugo Dal Lago, Roberto M. Amadio, Mingsheng Ying, Catuscia Palamidessi, Antonín Kucera 0001, Tomoyuki Yamakami, Thomas A. Henzinger, Stephan Kreutzer, 
+
+

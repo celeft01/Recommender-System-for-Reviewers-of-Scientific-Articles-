@@ -1,0 +1,15 @@
+K=100 Conferences:
+121.98323583602905
+Josep Silva, Salvador Tamarit, David Insa, Francisco Bueno, Germán Puebla, Pedro López-García 0001, Sergio Pérez 0001, José F. Morales 0001, María Alpuente, Juan José González-Abril, 
+
+
+K=200 Conferences:
+177.63419771194458
+Rafael Caballero 0001, Josep Silva, Salvador Tamarit, Manuel V. Hermenegildo, David Insa, Francisco Bueno, Germán Puebla, Pedro López-García 0001, Yolanda García-Ruiz, Sergio Pérez 0001, 
+
+
+K=300 Conferences:
+233.29963612556458
+Rafael Caballero 0001, Josep Silva, Salvador Tamarit, Manuel V. Hermenegildo, David Insa, Francisco Bueno, Germán Puebla, Pedro López-García 0001, Frank Huch, Yolanda García-Ruiz, 
+
+

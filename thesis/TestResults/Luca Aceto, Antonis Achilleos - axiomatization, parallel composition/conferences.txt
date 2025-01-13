@@ -1,0 +1,15 @@
+K=100 Conferences:
+101.26428508758545
+Bas Luttik, Vladimiro Sassone, Joachim Parrow, Damien Pous, Étienne Lozes, Youssouf Oualhadj, Wojciech Czerwinski, Vincent Danos, Ugo Montanari, Udi Boker, 
+
+
+K=200 Conferences:
+154.36375784873962
+Bas Luttik, Stefan Milius, Catuscia Palamidessi, Vladimiro Sassone, Marcello M. Bonsangue, Joachim Parrow, Jean-François Raskin, Henning Urbat, Damien Pous, Étienne Lozes, 
+
+
+K=300 Conferences:
+208.5887713432312
+Bas Luttik, Radu Mardare, Stefan Milius, Roberto Segala, Catuscia Palamidessi, Vladimiro Sassone, Marcello M. Bonsangue, Joachim Parrow, Roberto Gorrieri, Peter Habermehl, 
+
+

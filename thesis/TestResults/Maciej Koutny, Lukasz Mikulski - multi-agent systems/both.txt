@@ -1,0 +1,15 @@
+K=100 Both:
+171.63041973114014
+Paola Mello, Raymond R. Devillers, Éric Badouel, Yutaka Ohtsuka, Yann Thierry-Mieg, Vinod A. Muganthan, Vincent Beaudenon, Vegard Steinsland, Uli Schlachter, Tuomo Pyhälä, 
+
+
+K=200 Both:
+283.7606520652771
+Paola Mello, Raymond R. Devillers, Laure Petrucci, Paola Spoletini, Jean Fanchon, Éric Badouel, Yutaka Ohtsuka, Yann Thierry-Mieg, Xu Wang 0001, Wolfgang Reisig, 
+
+
+K=300 Both:
+398.8918340206146
+Paola Mello, Raymond R. Devillers, Laure Petrucci, Paola Spoletini, Paola Flocchini, Jean Fanchon, Heiko Rölke, Éric Badouel, Zeynep Dayar, Zahid H. Qureshi, 
+
+

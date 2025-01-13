@@ -1,0 +1,15 @@
+K=100 Conferences:
+93.2020206451416
+Claudio Antares Mezzina, Iain Phillips 0001, Nidhal Hamrit, Nicolas Durbec, Martin Vassor, James Hoey, Doriana Medic, Clément Aubert, Aurélien Emmanuel, Shoji Yuen, 
+
+
+K=200 Conferences:
+148.69010066986084
+Claudio Antares Mezzina, G. Michele Pinna, Ivan Lanese, Jean-Bernard Stefani, Hernán C. Melgratti, P. W. Hoogers, Iain Phillips 0001, Faron Moller, Reiner Hüchting, Nidhal Hamrit, 
+
+
+K=300 Conferences:
+205.9282763004303
+Parosh Aziz Abdulla, Claudio Antares Mezzina, G. Michele Pinna, Ivan Lanese, Richard Mayr, Jean-François Raskin, Rob J. van Glabbeek, P. S. Thiagarajan, Jean-Bernard Stefani, Hernán C. Melgratti, 
+
+

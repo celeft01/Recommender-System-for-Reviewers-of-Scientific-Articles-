@@ -1,0 +1,15 @@
+K=100 Journals:
+82.97226691246033
+Yuri Gurevich, Werner Loch, Vladislav Tempez, Vladimir Yakovlev, Viorica Sofronie, Udo Hummert, Tobias Kohn, Tigran Grigoryan, Sylvain Porrot, Steve Diggle, 
+
+
+K=200 Journals:
+123.34251642227173
+Stephan Kreutzer, Yuxin Deng, Yuri Gurevich, Wolfgang Reisig, Wieslaw Zielonka, Werner Loch, Vladislav Tempez, Vladimir Yakovlev, Viorica Sofronie, Vicky Papadopoulou, 
+
+
+K=300 Journals:
+176.403146982193
+Stephan Kreutzer, Zsuzsanna Lipták, Yuxin Deng, Yuri Gurevich, Yukiko Yamauchi, Wolfgang Reisig, Wolfgang Jeltsch, Wieslaw Zielonka, Werner Loch, W. Erni, 
+
+

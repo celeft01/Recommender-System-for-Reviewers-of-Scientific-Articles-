@@ -1,0 +1,15 @@
+K=100 Conferences:
+118.27518701553345
+Reza Babaee, …tienne Lozes, Youssouf Oualhadj, Yaron Velner, Vladimiro Sassone, Vincent Danos, Ugo Montanari, Tim A. C. Willemse, Thorsten Wiﬂmann, Slawomir Lasota 0001, 
+
+
+K=200 Conferences:
+161.08744478225708
+Frank S. de Boer, Felix Klaedtke, Reza Babaee, …tienne Lozes, Zeynep Dayar, Yuri A. Yushtein, Youssouf Oualhadj, Yaron Velner, Xinxin Liu 0009, Wojciech Czerwinski, 
+
+
+K=300 Conferences:
+215.422425031662
+Frank S. de Boer, Felix Klaedtke, Eugen Zalinescu, Reza Babaee, …tienne Lozes, Zeynep Dayar, Zdenek Sawa, Yuri A. Yushtein, Yuan Feng 0001, Youssouf Oualhadj, 
+
+

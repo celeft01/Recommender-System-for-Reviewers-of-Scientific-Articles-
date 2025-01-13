@@ -1,0 +1,15 @@
+K=100 Journals:
+75.06514620780945
+Maribel Fernández, Pierpaolo Degano, Simone Tini, Claude Kirchner, Roberto Gorrieri, Moreno Falaschi, Mariangiola Dezani-Ciancaglini, Alan Jeffrey, Maddalena Zacchi, Ines Margaria, 
+
+
+K=200 Journals:
+132.57505989074707
+Maribel Fernández, Pierpaolo Degano, Sandra Alves, Gian Luigi Ferrari, Simone Tini, Ruggero Lanotte, Claude Kirchner, Roberto Gorrieri, Paolo Ballarini, Moreno Falaschi, 
+
+
+K=300 Journals:
+191.09484338760376
+Maribel Fernández, Pierpaolo Degano, Sandra Alves, Gian Luigi Ferrari, Simone Tini, Ruggero Lanotte, Claude Kirchner, Venkatkumar Srinivasan, Roberto Gorrieri, Paolo Ballarini, 
+
+

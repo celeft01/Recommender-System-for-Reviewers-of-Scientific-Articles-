@@ -1,0 +1,15 @@
+K=100 Both:
+168.58176231384277
+Bas Luttik, Vladimiro Sassone, Joachim Parrow, Damien Pous, Étienne Lozes, Youssouf Oualhadj, Wojciech Czerwinski, Vincent Danos, Ugo Montanari, Udi Boker, 
+
+
+K=200 Both:
+283.0793631076813
+Bas Luttik, Stefan Milius, Catuscia Palamidessi, Vladimiro Sassone, Marcello M. Bonsangue, Joachim Parrow, Jean-François Raskin, Henning Urbat, Damien Pous, Étienne Lozes, 
+
+
+K=300 Both:
+402.9060719013214
+Bas Luttik, Radu Mardare, Stefan Milius, Roberto Segala, Catuscia Palamidessi, Vladimiro Sassone, Marcello M. Bonsangue, Joachim Parrow, Roberto Gorrieri, Peter Habermehl, 
+
+

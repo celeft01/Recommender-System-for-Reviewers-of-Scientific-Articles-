@@ -1,0 +1,15 @@
+K=100 Journals:
+76.53743743896484
+Annabelle McIver, Shailesh Vaya, Ross Horne, Yuan He 0003, Yixin Cao 0001, Yasushi Kawase, Yasuaki Kobayashi, Yann Disser, Xin Li 0051, Xiaoming Sun, 
+
+
+K=200 Journals:
+135.32397294044495
+Annabelle McIver, Shailesh Vaya, Ross Horne, Lukasz Kowalik, Khaled M. Elbassioni, Yuto Nakashima, Yuki Kuhara, Yuan He 0003, Yoav Gross, Yixin Cao 0001, 
+
+
+K=300 Journals:
+195.06881952285767
+Catuscia Palamidessi, Annabelle McIver, Tomohiro I, Teresa Anna Steiner, Oren Sar Shalom, Uli Fahrenberg, Shailesh Vaya, Serge Gaspers, Ross Horne, Lukasz Kowalik, 
+
+

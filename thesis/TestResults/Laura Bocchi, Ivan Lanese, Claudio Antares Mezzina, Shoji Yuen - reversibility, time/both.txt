@@ -1,0 +1,15 @@
+K=100 Both:
+200.10284948349
+Jean-Bernard Stefani, Paola Inverardi, Farhad Arbab, Anna Philippou, Maurizio Murgia 0001, Iain Phillips 0001, Paola Mello, Vasco Thudichum Vasconcelos, Paola Lecca, Paola Goatin, 
+
+
+K=200 Both:
+305.35488271713257
+Frank S. de Boer, Jean-Bernard Stefani, Paola Inverardi, Hanne Riis Nielson, Flemming Nielson, Diego Latella, Paola Salomoni, Jean-Marie Jacquet, Farhad Arbab, Paola Spoletini, 
+
+
+K=300 Both:
+416.9131512641907
+Frank S. de Boer, Jean-Bernard Stefani, Paola Flocchini, Roberto Gorrieri, Paola Inverardi, Hanne Riis Nielson, Flemming Nielson, Diego Latella, Paola Salomoni, Jean-Marie Jacquet, 
+
+

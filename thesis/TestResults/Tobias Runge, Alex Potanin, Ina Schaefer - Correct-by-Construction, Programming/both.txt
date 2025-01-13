@@ -1,0 +1,15 @@
+K=100 Both:
+197.60412859916687
+Xhevahire Tërnava, Wolfram Fenske, Wolfgang Heider, Wardah Mahmood, Wanzi Gu, Vladyslav Bohlachov, Tobias Thiem, Thorsten Berger, Thomas Leich, Stefan Mann, 
+
+
+K=200 Both:
+305.2414643764496
+Xhevahire Tërnava, Xavier Devroey, Wolfram Fenske, Wolfgang Heider, Wardah Mahmood, Wanzi Gu, Vladyslav Bohlachov, Victoria Martin-Requena, Vanessa C. F. Gonçalves, Valentin Rothberg, 
+
+
+K=300 Both:
+411.61956548690796
+Xhevahire Tërnava, Xavier Devroey, Wonseok Chae, Wolfgang Heider, Wardah Mahmood, Wanzi Gu, Vladyslav Bohlachov, Vladimir Blagojevic, Visar Januzaj, Victoria Martin-Requena, 
+
+

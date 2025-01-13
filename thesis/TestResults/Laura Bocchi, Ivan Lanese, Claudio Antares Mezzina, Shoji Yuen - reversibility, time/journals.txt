@@ -1,0 +1,15 @@
+K=100 Journals:
+71.76857376098633
+Patricia Bouyer, Joost-Pieter Katoen, Holger Hermanns, Kim G. Larsen, Christel Baier, Uli Fahrenberg, Paritosh K. Pandya, Pedro R. D'Argenio, Erika Ábrahám, Mariëlle Stoelinga, 
+
+
+K=200 Journals:
+128.1984088420868
+Patricia Bouyer, Nicolas Markey, Joost-Pieter Katoen, Holger Hermanns, Kim G. Larsen, Franck Cassez, Christel Baier, Joël Ouaknine, Gerardo Schneider, Adriano Peron, 
+
+
+K=300 Journals:
+183.07974863052368
+Patricia Bouyer, Thomas A. Henzinger, Nicolas Markey, Joost-Pieter Katoen, Holger Hermanns, Kim G. Larsen, Franck Cassez, Jean-François Raskin, James Worrell 0001, Christel Baier, 
+
+

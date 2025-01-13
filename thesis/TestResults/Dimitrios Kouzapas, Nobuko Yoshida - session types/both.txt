@@ -1,0 +1,15 @@
+K=100 Both:
+178.62398505210876
+Luca Padovani, Kohei Honda, Ankush Das, Luís Caires, Raymond Hu, Giovanni Bernardi 0001, Matthew Hennessy, Rob van Glabbeek, Davide Sangiorgi, Cosimo Laneve, 
+
+
+K=200 Both:
+286.0941107273102
+Luca Padovani, Kohei Honda, Ankush Das, Ornela Dardha, Luís Caires, Raymond Hu, Stephanie Balzer, Giovanni Bernardi 0001, Matthew Hennessy, Felix Stutz, 
+
+
+K=300 Both:
+400.42437529563904
+Frank Pfenning, Vasco T. Vasconcelos, Luca Padovani, Kohei Honda, Peter Thiemann 0001, Ankush Das, Ornela Dardha, Pierre-Malo Deniélou, Luís Caires, Raymond Hu, 
+
+

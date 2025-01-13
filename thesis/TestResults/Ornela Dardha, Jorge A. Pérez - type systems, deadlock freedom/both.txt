@@ -1,0 +1,15 @@
+K=100 Both:
+150.6672399044037
+Paola Inverardi, Yoshinori Itabashi, Ye Xinming, Xizheng Shi, Wilfried H. P. van Hulzen, Victor Melamed, Victor G. García, Tzu-Chun Chen, Tul Kongprakaiwoot, Thomas Davie, 
+
+
+K=200 Both:
+264.26368951797485
+Paola Inverardi, Yunquan Peng, Younghan Choe, Yosihiro Yuse, Yoshinori Itabashi, Yoshiaki Tokita, Ye Xinming, Y. Ortega, Xizheng Shi, X. Ye, 
+
+
+K=300 Both:
+375.6564359664917
+Rocco De Nicola, Paola Inverardi, Ivan Lanese, Yunquan Peng, Youssef Arbach, Younghan Choe, Yosihiro Yuse, Yoshinori Itabashi, Yoshiaki Tokita, Ye Xinming, 
+
+

@@ -1,0 +1,15 @@
+K=100 Both:
+159.2954478263855
+Paola Inverardi, Paola Mavriki, Duaa Alkubaisy, Yang-Tze Lin, Émilien Frugier, Zeynep Dayar, Yves Chaumette, Yuri A. Yushtein, Yi-Lang Tu, Vincent Bouzon, 
+
+
+K=200 Both:
+275.57195019721985
+Paola Inverardi, Paola Mavriki, Duaa Alkubaisy, Paola Spoletini, Gabriel H. Nunes, Yang-Tze Lin, Miriam Wagner, Émilien Frugier, Zeynep Dayar, Yves Chaumette, 
+
+
+K=300 Both:
+393.47194361686707
+Paola Inverardi, Paola Mavriki, Jan Friso Groote, Duaa Alkubaisy, Yuan Feng 0001, Paola Spoletini, Gabriel H. Nunes, Faron Moller, Yang-Tze Lin, Veerle Jessen, 
+
+

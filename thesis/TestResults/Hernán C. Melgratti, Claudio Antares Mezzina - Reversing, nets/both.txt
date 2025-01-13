@@ -1,0 +1,15 @@
+K=100 Both:
+168.5683126449585
+Anna Philippou, Kyriaki Psara, Shoji Yuen, Nobuko Yoshida, Michele Loreti, Iain Phillips 0001, Eleftheria Kouppari, Luca Padovani, Jean-Bernard Stefani, Gianluigi Zavattaro, 
+
+
+K=200 Both:
+282.8856928348541
+Anna Philippou, Kyriaki Psara, Nadia Busi, Rob J. van Glabbeek, Filippo Bonchi, Shoji Yuen, Rohan Sen, Rosario Pugliese, Nobuko Yoshida, Michele Loreti, 
+
+
+K=300 Both:
+387.534476518631
+Anna Philippou, Kyriaki Psara, Nadia Busi, Richard Mayr, Glynn Winskel, Rob J. van Glabbeek, Piotr Hofman, Filippo Bonchi, Paola Flocchini, Massimo Bartoletti, 
+
+

@@ -1,0 +1,15 @@
+K=100 Journals:
+73.4008150100708
+Lukasz Mikulski, Damas P. Gruska, Cecylia Rauszer, Yanzhang Li, Y. S. Ramakrishna, Wladyslaw Skarbek, Wiktor Danko, Tran Thang Thanh, Tonny Rutayisire, Tomasz Borzyszkowski, 
+
+
+K=200 Journals:
+132.3286428451538
+Lukasz Mikulski, Damas P. Gruska, Cecylia Rauszer, Zizhu Wang, Zhi-Fang Zeng, Yijun Fan, Yi-Long Liu, Yanzhang Li, Y. S. Ramakrishna, Y. Faber, 
+
+
+K=300 Journals:
+191.43534231185913
+Lukasz Mikulski, Damas P. Gruska, Cecylia Rauszer, Zunjing Lu, Zizhu Wang, Zhi-Fang Zeng, Yijun Fan, Yi-Long Liu, Yanzhang Li, Y. S. Ramakrishna, 
+
+

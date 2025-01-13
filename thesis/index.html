@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <!-- <meta charset="utf8"> -->
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title>Thesis</title>
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js" integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN"crossorigin="anonymous"></script>
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.3/jquery.min.js"></script>
+        <link rel="stylesheet" href="thesis.css" />
+        <script src="thesis.js" defer></script>
+    </head>
+    <body>
+
+      <h1>Recommender System for Article Reviewers</h1><br><br>
+
+
+
+        <div class="modal fade" id="modal1" tabindex="-1" role="dialog" aria-hidden="true">
+            <div class="modal-dialog modal-dialog-centered">
+              <div class="modal-content">
+                <div class="modal-header">
+                  <h5 class="modal-title" id="mtitle">Titles that the keyword is found</h5>
+                  <button type="button" class="btn-close btn-sm" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="modal-body" id="modalbody">
+
+                    
+
+
+
+
+                </div>
+                <div class="modal-footer">
+                  <button type="button" class="btn btn-danger" data-bs-dismiss="modal">Close</button>
+                </div>
+              </div>
+            </div>
+        </div>
+
+
+
+
+
+
+
+
+
+
+        <div id="Inputs">
+            <div class="input-group mb-3 flex-wrap" id="IN">
+                <span class="input-group-text" id="basic-addon1">Authors' full names</span>
+                <input type="text" id="fullname" name="fullname" class="form-control" placeholder="ex. FirstName LastName , FirstName LastName"  aria-label="Authors full name:">
+                <span id="c1" class="check input-group-text d-none">Invalid Input</span> 
+            </div><br>
+        
+            <div class="input-group mb-3 flex-wrap" id="IN">
+                <span class="input-group-text" id="basic-addon1">Keywords</span>
+                <input type="text" id="key1" name="key1" class="form-control" placeholder="ex. keyword1 , keyword2"  aria-label="Keyword 1">
+                <span id="c2" class="check input-group-text d-none">Invalid Input</span>
+                
+            </div><br>
+
+            <!-- <div class="input-group mb-3 flex-wrap" id="IN">
+                <span class="input-group-text" id="basic-addon1">Second keyword</span>
+                <input type="text" id="key2" name="key2" class="form-control" placeholder="Keyword 2"  aria-label="Keyword 2">
+                <span id="c3" class="check input-group-text d-none">Invalid Input</span>
+                
+            </div><br> -->
+            <div class="input-group mb-3 flex-wrap" id="IN">
+              <span class="input-group-text" id="basic-addon1">Number of results</span>
+              <input type="number" id="resnum" name="resnum" min="1" max="100" class="form-control" placeholder="1-100"  aria-label="1-100">
+              <span id="c4" class="check input-group-text d-none">Invalid Input</span>
+              
+          </div><br>
+        </div>
+
+        <button id="btn1" name="btn1" type="button" class="btn btn-primary">Based on Conferences</button>
+        <button id="btn2" name="btn2" type="button" class="btn btn-primary">Based on Journals</button>
+        <button id="btn3" name="btn3" type="button" class="btn btn-primary">Based on Conferences and Journals</button>
+        <button id="btn4" name="btn4" type="button" class="btn btn-danger" style="margin-left: 200px;">Clear</button><br><br><br><br>
+
+        
+        <!-- <p id="results" class="border">this is where the results will be printed</p> -->
+        
+        
+
+
+
+
+
+
+
+
+
+
+
+
+        <table class="table table-striped table-sortable" id="tbl1">
+            <thead>
+              <tr>
+                <th scope="col">Name</th>
+                <th scope="col" id="kwords" onclick="sortResultTable(this.id)">Keywords Score &#8597</th>
+                <th scope="col" id="entriesn" onclick="sortResultTable(this.id)">Common Conferences/Journals &#8597</th>
+                <th scope="col">Possible co-author</th>
+              </tr>
+            </thead>
+            <tbody id="tbody">
+            </tbody>
+        </table>
+
+        
+
+    </body>
+</html>
+
+

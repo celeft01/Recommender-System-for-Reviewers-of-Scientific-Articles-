@@ -1,0 +1,15 @@
+K=100 Conferences:
+94.89060688018799
+Holger Hermanns, Kim Guldstrand Larsen, Kim G. Larsen, Parosh Aziz Abdulla, Mahesh Viswanathan 0001, Nicolas Markey, Jeremy Sproston, Luca Bortolussi, David N. Jansen, Sebastian Kupferschmid, 
+
+
+K=200 Conferences:
+147.61111497879028
+Holger Hermanns, Doron A. Peled, Kim Guldstrand Larsen, Boudewijn R. Haverkort, Thomas A. Henzinger, Kim G. Larsen, Parosh Aziz Abdulla, Mahesh Viswanathan 0001, Alexandre David, Nicolas Markey, 
+
+
+K=300 Conferences:
+205.51225018501282
+Holger Hermanns, Doron A. Peled, Kim Guldstrand Larsen, Boudewijn R. Haverkort, Thomas A. Henzinger, Andreas Podelski, Kim G. Larsen, Parosh Aziz Abdulla, Mahesh Viswanathan 0001, Jaco van de Pol, 
+
+

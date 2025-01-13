@@ -1,0 +1,15 @@
+K=100 Journals:
+79.08381295204163
+Zeinab Abou Khalil, Yuriy Zacchia Lun, Yang Wang 0049, Yago Isasi Parache, Vahdat Abdelzad, Tom van Bussel, Taejoon Byun, Simos Gerasimou, Silvano Dal-Zilio, Shayne Flint, 
+
+
+K=200 Journals:
+139.82925987243652
+Zenan Li, Zeinab Abou Khalil, Yuriy Zacchia Lun, Yehia Abd Alrahman, Yang Wang 0049, Yago Isasi Parache, William Mansky, Weisong Sun, Ville Vakkuri, Vahdat Abdelzad, 
+
+
+K=300 Journals:
+189.40868711471558
+Zheng Li 0001, Zenan Li, Zeinab Abou Khalil, Yuriy Zacchia Lun, Yousef Elsheikh, Yehia Abd Alrahman, Yanhong A. Liu, Yang Wang 0049, Yago Isasi Parache, Xiyue Zhang, 
+
+

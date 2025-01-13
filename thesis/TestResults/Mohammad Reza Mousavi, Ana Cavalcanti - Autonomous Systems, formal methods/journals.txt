@@ -1,0 +1,15 @@
+K=100 Journals:
+75.51053047180176
+Zuo-liang Cao, Zan Mi, Ying Sheng 0005, Vrunda A. Joshi, Vojin Drenovac, Vengatesan Govindaraju, V. M. Padrón, Tatsuyuki Shimadzu, Tammo Trüper, Simon Bastide, 
+
+
+K=200 Journals:
+132.4274778366089
+Zuo-liang Cao, Zhu Liang Cai, Zhaoying Cheng, Zhangbo Huang, Zexing Zhou, Zan Mi, Youcef Chekhar, Yoshimasa Ito, Yong-Kui Guo, Ying Sheng 0005, 
+
+
+K=300 Journals:
+198.48586511611938
+Zuo-liang Cao, Zhu Liang Cai, Zhiao Cai, Zhenzi Song, Zhaoying Cheng, Zhangbo Huang, Zexing Zhou, Zan Mi, Yukio Ohtani, Yukang Chang, 
+
+

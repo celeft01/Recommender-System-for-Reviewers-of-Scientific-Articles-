@@ -1,0 +1,15 @@
+K=100 Both:
+186.90416407585144
+Nicolas Lagaillardie, Laura Bocchi, Fabrizio Montesi, Young-Joo Moon 0001, Vladimiro Toschi, Vagia Karyoti, Ujitha Wickramarathna, Timo Besamusca, Thomas Scheller, Thanh-Son Dang, 
+
+
+K=200 Both:
+299.7576780319214
+Ornela Dardha, Nicolas Lagaillardie, Laura Bocchi, Marco Carbone, Fabrizio Montesi, Zak Cutner, Tzu-Chun Chen, José Proença, Guillermina Cledou, Zorica Savanovic, 
+
+
+K=300 Both:
+400.3432128429413
+Rumyana Neykova, Raymond Hu, Ornela Dardha, Nicolas Lagaillardie, Laura Bocchi, Sung-Shik Jongmans, Marco Carbone, Fabrizio Montesi, Zak Cutner, Tzu-Chun Chen, 
+
+

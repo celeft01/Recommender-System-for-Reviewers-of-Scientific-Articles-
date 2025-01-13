@@ -1,0 +1,15 @@
+K=100 Journals:
+74.92034411430359
+Anna Ingólfsdóttir, Vladimiro Sassone, Gordon D. Plotkin, Werner Loch, Vladislav Tempez, Vladimir Yakovlev, Viorica Sofronie, Udo Hummert, Tobias Kohn, Tigran Grigoryan, 
+
+
+K=200 Journals:
+126.84105134010315
+Anna Ingólfsdóttir, Catuscia Palamidessi, Yuxin Deng, Vladimiro Sassone, Irène Guessarian, Dexter Kozen, Andreas Blass, Mark Timmer, Gordon D. Plotkin, Alban Ponse, 
+
+
+K=300 Journals:
+181.32167983055115
+Anna Ingólfsdóttir, Catuscia Palamidessi, Yuxin Deng, Vladimiro Sassone, Shlomi Dolev, Nachum Dershowitz, José L. Balcázar, Irène Guessarian, Dexter Kozen, Andreas Blass, 
+
+

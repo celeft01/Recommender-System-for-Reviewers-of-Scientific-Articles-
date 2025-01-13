@@ -1,0 +1,15 @@
+K=100 Conferences:
+83.44408512115479
+Yuma Inoue, Yuki Yamanashi, Wouter Schols, Waltraut Wustmann, Uwe Meyer 0003, Tsvetelina Yonova-Karbe, Torben Ægidius Mogensen, Tim Boykett, Stéphane Burignat, Stijn De Baerdemacker, 
+
+
+K=200 Conferences:
+136.61478877067566
+Zaid Al-Wardi, Zahra Sasanian, Yuma Inoue, Yuki Yamanashi, Youssef Arbach, Yann Perrin, Wouter Schols, Waltraut Wustmann, Wakaki Hattori, Vikraman Choudhury, 
+
+
+K=300 Conferences:
+197.34228420257568
+Zaid Al-Wardi, Zahra Sasanian, Yuma Inoue, Yuki Yamanashi, Youssef Arbach, Yann Perrin, Xian Xu 0001, Wouter Schols, Waltraut Wustmann, Wakaki Hattori, 
+
+

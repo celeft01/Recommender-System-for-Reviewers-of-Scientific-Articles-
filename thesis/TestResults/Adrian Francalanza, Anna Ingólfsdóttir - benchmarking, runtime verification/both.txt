@@ -1,0 +1,15 @@
+K=100 Both:
+181.76562929153442
+Daniel Thoma, Felix Klaedtke, Eugen Zalinescu, Chun Tian 0001, Luis Miguel Danielsson, Duncan Paul Attard, Shinichi Shiriashi, Reza Babaee, Florence Opalvens, Eleni Zapridou, 
+
+
+K=200 Both:
+289.0662376880646
+Martin Leucker, Daniel Thoma, Srdan Krstic, Felix Klaedtke, Eugen Zalinescu, Scott A. Smolka, Joshua Heneage Dawes, Chun Tian 0001, Antoine El-Hokayem, Normann Decker, 
+
+
+K=300 Both:
+400.3950984477997
+Klaus Havelund, Martin Leucker, César Sánchez, Daniel Thoma, Srdan Krstic, Doron Peled, Felix Klaedtke, Eugen Zalinescu, Scott A. Smolka, Joshua Heneage Dawes, 
+
+
